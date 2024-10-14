@@ -1,0 +1,17 @@
+Alunos: Alberto Cesar Pinheiro da Silva
+
+Conteudo consultado: nenhum
+
+Consegui realizar tudo que foi proposta sem muitas dificuldades no raciocínio, 
+apesar de achar que o código não ficou perfeito.
+
+Um dos problemas ao escrever o código foi achar uma forma de fazer a função remover
+ser O(1), não tendo conseguido chegar a uma solução.
+
+Discussão sobre as funções:
+As funções add(e), contains(e) e size() possuem O(1), uma vez que elas não precisam percorrer toda
+a estrutura onde os dados estão armazenados para obter um resultado. No caso das duas primeiras, elas apenas
+precisam consultar um HashMap. Optei por armazenas os elementos na chave, creio que assim não haverá problemas de colisão.
+Já a função size() apenas retorna o valor de uma variável no TAD Fila.
+As funções remove() e list() precisam percorrer toda a fila para poderem retornar um resultado, no caso da list(), ela
+é uma função nativa do TAD Fila, então apenas retorno seu resultado.
