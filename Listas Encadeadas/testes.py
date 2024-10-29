@@ -1,10 +1,15 @@
 from ListaEncadeadaCircular import *
 
 def mostrar_membros_projeto():
+<<<<<<< HEAD
     alberto = Membro('Alberto Cesar Pinheiro da Silva', 'acps3@aluno.ifal.edu.br')
     luiz = Membro('Luiz Claudio Vieira da Silva Junior','lcvsj1@aluno.ifal.edu.br')
     print(alberto)
     print(luiz)
+=======
+    eu = Membro('Alberto Cesar Pinheiro da Silva', 'albertocesar.be@gmail.com')
+    print(eu)
+>>>>>>> c3d687a26b8b1a94ff383bee35f2cb7784084a51
 
 def teste_adicao_membros():
     lista = ListaEncadeadaCircular()
