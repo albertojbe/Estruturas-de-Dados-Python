@@ -4,6 +4,7 @@ Miniprojeto envolvendo o desenvolvimento de uma lista encadeada circular.
 Membros
 -
 - Alberto Cesar Pinheiro da Silva
+- Luiz Claudio Vieira da Silva Junior
 
 Desempenho das Operações
 -
